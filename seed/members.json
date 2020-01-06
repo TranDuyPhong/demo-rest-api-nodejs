@@ -1,0 +1,21 @@
+{
+	"firstName": "Phong",
+	"lastName": "Sn",
+	"age": 24,
+	"skills": "C#, JS, SQL",
+	"team": "1"
+}
+{
+	"firstName": "Phong",
+	"lastName": "Local",
+	"age": 24,
+	"skills": "ReactJS, NodeJS, NextJS",
+	"team": "2"
+}
+{
+	"firstName": "Phong",
+	"lastName": "Cn",
+	"age": 24,
+	"skills": "React Native, IOT, Python",
+	"team": "3"
+}
